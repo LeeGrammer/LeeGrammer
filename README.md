@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LeeGrammer's+Github&fontSize=90)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+jungmin's+github;Welcome+to+LeeGrammer's+github)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGrammer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
