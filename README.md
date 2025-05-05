@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LeeGrammer's+Github&fontSize=70)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+jungmin's+github;Welcome+to+LeeGrammer's+github)](https://git.io/typing-svg)
 
